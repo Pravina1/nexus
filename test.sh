@@ -1,5 +1,5 @@
 
-    git push origin HEAD:master
+    git push origin master 
     git config --global user.name "Prvina1"
     git config --global user.email "awatipravin10@gmail.com"
     git init 
