@@ -8,5 +8,5 @@
     git add --all
     git commit -m "initial_commit"
     git push origin master 
-    echo "success:":w
+    echo "success"
 
